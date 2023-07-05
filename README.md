@@ -1,2 +1,2 @@
 # maven_jenkins
-#Status build : http://192.168.0.105:8080/buildStatus/text?job=maven
+#Status build : <a href='http://192.168.0.105:8080/job/maven/'><img src='http://192.168.0.105:8080/buildStatus/icon?job=maven'></a>
